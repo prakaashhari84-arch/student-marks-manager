@@ -7,3 +7,4 @@ This is a Python-based mini project that allows users to:
 Technologies Used:
 - Python
 - File Handling
+view file on std.py
