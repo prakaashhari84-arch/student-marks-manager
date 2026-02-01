@@ -1,2 +1,9 @@
 # student-marks-manager
-This is useful for store students information, also allow the users to add records of students and marks
+This is a Python-based mini project that allows users to:
+- Add student names and marks
+- Store records in a file
+- View stored student data
+
+Technologies Used:
+- Python
+- File Handling
